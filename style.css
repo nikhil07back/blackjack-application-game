@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(8, 128, 54);
+
+    text-align: center;
+    position: relative;
+    top: 100px;
+    
+
+}
+
+h1{
+ color: yellowgreen;
+}
+
+button {
+    background-color: blueviolet;
+    border: none;
+    width: 200px;
+    height: 70px;
+    color: aliceblue;
+    font-size: 24px;
+}
+
+button:hover{
+   
+
+    background-color: rgb(131, 124, 124);
+    color: black;
+}
+
+p{ 
+    margin: 10px;
+    color: darkgray;
+    font-size: 26px;
+}
+
